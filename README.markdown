@@ -1,3 +1,8 @@
+Basic test if I can port that Symfony component to a Vanilla plugin  
+   
+      
+      
+   
 # Search Index
 
 * Version: 0.9.1
